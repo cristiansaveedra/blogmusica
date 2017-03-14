@@ -1,0 +1,36 @@
+ body{
+
+ 	width: 100%;
+ 	height: 100%;
+ }
+ .redes-sociales img{
+ 	width: 80px;
+ 
+ }
+ .logo-svg{
+ 	width: 80px;
+ }
+ .list-inline li{
+ 	text-align: center;
+      width: 120px;
+ }
+.juan{
+	width: 200px;
+	float: right;
+}
+.color1{
+	text-align: center;
+width: 700px;
+}
+.color3{
+	width: 400px;
+	
+
+}
+.color4{
+   float: left;
+
+}
+.color5{
+	float: right;
+}
